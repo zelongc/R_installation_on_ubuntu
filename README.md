@@ -1,4 +1,4 @@
-#Install R version 3.4.4 on Ubuntu notes.
+# Install R version 3.4.4 on Ubuntu notes.
 
 This is proved work on Ubuntu 17 OS.
 
@@ -69,5 +69,5 @@ use:
 ```
 sudo apt-get install ssllib-dev
 ```
-###Acknowledgements
+### Acknowledgements
 A lot of thanks to [Jtremblay](https://github.com/jtremblay) and his work [this article](http://jtremblay.github.io/software_installation/2017/06/21/Install-R-3.4.0-and-RStudio-on-Ubuntu-16.04), which saved me a lot of time to build the R environment.
